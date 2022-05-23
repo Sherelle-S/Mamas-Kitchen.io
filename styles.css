@@ -232,6 +232,9 @@ padding-inline-start: 0;
   .reservation{ 
     display: none;
   }
+  
+  .section{
+    padding: 50px 25px;
 }
 
 @media(min-width: 650px){
