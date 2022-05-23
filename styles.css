@@ -228,8 +228,13 @@ padding-inline-start: 0;
   display: none;
 }
 
+@media(max-width: 650px){
+  .reservation{ 
+    display: hidden;
+  }
+}
 
-@media (min-width: 650px){
+@media(min-width: 650px){
  
   input{
     padding: 0.6rem 0.5rem;
@@ -309,9 +314,7 @@ padding-inline-start: 0;
         margin: 0 auto;
       }
   
-  .reservation{ 
-  }
-
+  
       .pimg4{
         background-image: url("https://res.cloudinary.com/dft0cktie/image/upload/v1653230914/pexels-omar-mahmood-106343_cflagr.jpg");
         min-height: 25rem;
