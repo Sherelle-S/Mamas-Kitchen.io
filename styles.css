@@ -230,7 +230,7 @@ padding-inline-start: 0;
 
 @media(max-width: 650px){
   .reservation{ 
-    display: hidden;
+    display: none;
   }
 }
 
