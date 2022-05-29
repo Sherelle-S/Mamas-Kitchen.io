@@ -145,8 +145,6 @@ nav a:hover{
     min-height: 25rem;
 }
 
-
-
 .section-light{
   background-color: #f4f4f4;
   color: darkgray;
@@ -183,7 +181,9 @@ nav a:hover{
   background-color: transparent;
 }
 /* containers end here */
-
+input{
+  border-radius: 1px;
+}
 /* dining experience */
 .dropbtn,.dropdown-content > a{
   display: none;
