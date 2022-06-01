@@ -183,6 +183,7 @@ nav a:hover{
 /* containers end here */
 input{
   border-radius: 1px;
+  height: 1.25px;
 }
 /* dining experience */
 .dropbtn,.dropdown-content > a{
